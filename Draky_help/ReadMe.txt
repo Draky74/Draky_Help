@@ -1,0 +1,5 @@
+Dette script er originalt lavet til HotBase.
+
+Lavet Af Draky#4323
+
+ HotBase All Rights 
